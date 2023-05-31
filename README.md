@@ -16,7 +16,10 @@ If it doesn't find the IP address on Shodan, it will tell you directly in the pr
 git clone https://github.com/WiseLife42/ShodAPInspector
 cd ShodAPInspector
 pip install shodan
+```
+
+## How to use
+```
 python ShodAPInspector.py
 ```
-## How to use
 [![asciicast](https://asciinema.org/a/yRHS7bQCgJ1sRwXspNft7bjt9.svg)](https://asciinema.org/a/yRHS7bQCgJ1sRwXspNft7bjt9)
